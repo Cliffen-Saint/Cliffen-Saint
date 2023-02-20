@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cliffen-Saint
 - 👀 I’m interested in Python and Data Analysis.
-- 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on Data Analysus.
+- 🌱 I’m currently learning to code online.
+- 💞️ I’m looking to collaborate on Data Analysis and AWS & Cloud Native.
 - 📫 How to reach me cliff.ojango@gmail.com
 
 <!---
